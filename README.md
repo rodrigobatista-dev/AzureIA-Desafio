@@ -50,7 +50,5 @@ Este repositório documenta minhas práticas com serviços de IA no Azure, inclu
 - **Processamento de fala e linguagem:** Destacou a importância de pipelines de PLN integrados para sistemas conversacionais.  
 - **Ética e segurança:** Aprendi a aplicar boas práticas para garantir confiabilidade e imparcialidade nos resultados gerados.
 
----
 
-## Estrutura do Repositório
  Nota: Estrutura do README foi auxiliada por ChatGPT para fins de organização.
